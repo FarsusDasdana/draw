@@ -1,2 +1,2 @@
-main branch descriptions are below:
+MAIN BRANCH RULES!!
 ...

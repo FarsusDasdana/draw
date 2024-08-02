@@ -1,2 +1,4 @@
-main branch descriptions are below:
-...
+I made some changes on 'add_staff' branch
+ 1.
+ 2.
+ 3.
